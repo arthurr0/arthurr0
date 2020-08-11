@@ -26,4 +26,4 @@
 ---
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="arturekdev Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arturekdev&show_icons=true&hide_border=true" />

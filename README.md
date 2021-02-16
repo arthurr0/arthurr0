@@ -13,16 +13,5 @@
 
 ---
 
-### My current projects
-
-- <b>MINEHOST.PL</b> - Hosting for minecraft servers.
-- <b>mineCodes.pl</b> - Coding minecraft plugins.
-- <b>CampFire.pl</b> - Minecraft survival server on 1.16 version.
-
-
-<br />
-
----
-
 
 <img align="left" alt="arturekdev Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arturekdev&show_icons=true&hide_border=true" />

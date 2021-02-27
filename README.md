@@ -1,20 +1,9 @@
-### Hello, I am Arthur. I am learning programming in Java. On the internet also known as _arturek or arturekdev. 👋
-
-
-### I am currently learning languages and tools:
-
-<img align="left" alt="MySQL" width="50px" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" />
-<img align="left" alt="Git" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/git-16-1175195.png" />
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Java" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" />
-
-<br />
-<br />
-
----
-
-### Statistics
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=arturekdev&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturekdev)](https://github.com/anuraghazra/github-readme-stats)
+<h1>Hi there!</h1>
+<span>I'm 19 old hobbistic programmer in Java. I strive to make hobby become a work.</span>
 <br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arturekdev)](https://github.com/anuraghazra/github-readme-stats)
+<h2>My languages and tools:</h2>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" height="50">
+<img src="https://www.anysoft.pl/images/items/4634/phpstorm_big.png" height="50">
+<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height="50">
+<img src="https://plumbr.io/app/uploads/2019/06/java.png" height="50">
+<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="50">

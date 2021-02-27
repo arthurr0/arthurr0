@@ -11,4 +11,5 @@
 <br>
 <h2>Statistics</h2>
 <img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=arturekdev&count_private=true&show_icons=true" />
-<img align="left" width="450px" src="https://github-readme-stats.vercel.app/api/wakatime?username=arturekdev" />
+<img width="450px" src="https://github-readme-stats.vercel.app/api/wakatime?username=arturekdev" />
+<img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturekdev&layout=compact" />

@@ -17,4 +17,4 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=arturekdev&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturekdev)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arturekdev)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arturekdev)](https://github.com/anuraghazra/github-readme-stats)

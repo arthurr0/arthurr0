@@ -10,4 +10,4 @@
 <br>
 <br>
 <h2>Statistics</h2>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arturekdev)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arturekdev&count_private=true)

@@ -1,5 +1,5 @@
 <h1>Hi there!</h1>
-<span>I'm 19 old hobbistic programmer in Java. I strive to make hobby become a work.</span>
+<span>I'm 19 years old hobbistic Java programmer. I strive to make my hobbe full time job.</span>
 <br>
 <h2>My languages and tools:</h2>
 <img align="left" alt="Java" width="40px" src="https://plumbr.io/app/uploads/2019/06/java.png" />

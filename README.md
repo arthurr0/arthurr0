@@ -8,5 +8,6 @@
 <img align="left" alt="GitHub" width="48px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
 <img align="left" alt="MySQL" width="60px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
 <br>
+<br>
 <h2>Statistics</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturekdev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br><br>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arturekdev)](https://github.com/anuraghazra/github-readme-stats)

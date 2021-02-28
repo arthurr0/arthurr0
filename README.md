@@ -10,10 +10,8 @@
 <br>
 <br>
 <h2>Statistics</h2>
-<div>
   <img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=arturekdev&count_private=true&show_icons=true" />
   <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturekdev&layout=compact" />
-</div>
 <img align="left" width="450px" src="https://github-readme-stats.vercel.app/api/wakatime?username=arturekdev&show_icons=true" />
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

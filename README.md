@@ -2,6 +2,7 @@
 <span>I'm 19 years old hobbistic Java programmer. I strive to make my hobbe full time job.</span>
 <br>
 <h2>My languages and tools</h2>
+![image](https://user-images.githubusercontent.com/61193738/135444647-1834e637-d599-4d84-83ee-4ad62a9e9925.png)
 <img align="left" alt="Java" width="50px" src="https://plumbr.io/app/uploads/2019/06/java.png" />
 <img align="left" alt="MySQL" width="75px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
 <img align="left" alt="Redis" width="50px" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" />

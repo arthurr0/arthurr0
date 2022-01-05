@@ -1,7 +1,7 @@
 ```java
 import java.util.logging.Logger;
 
-public class Main {
+public class About {
     
     public static void main(String[] args) {
         User user = new User("Arthur");

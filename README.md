@@ -23,13 +23,18 @@
          */
         logger.info("mineLogin");
         logger.severe("About: Addon for login users on Bungee, Velocity and Spigot minecraft servers.");
-        logger.warning("Technology: Java, JSON, SQL, Maven, Git, Cache, bCrypt, Hashing algorithms, Messaging system.");
+        logger.warning("Technology: Java, JSON, SQL, Maven, Git, Cache, bCrypt, Hashing algorithms, Messaging system, Adventure platform");
 
         logger.info("minePlots");
         logger.severe("About: Addon for create cuboids on Spigot minecraft servers.");
         logger.warning("Technology: Java, JSON, SQL, Maven, Git, mongoDB.");
-    }
 
+        /*
+        Statistics
+         */
+        logger.info("Java codding: 1350hrs+");
+        logger.info("Customers: 80+");
+        logger.info("Total commits: 750+");
+        logger.info("Complete projects: 60+");
+    }
 ```
-<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=arturekdev&show_icons=true" />
-<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=arturekdev&count_private=true&show_icons=true" />

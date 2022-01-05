@@ -1,4 +1,8 @@
 ```java
+import java.util.logging.Logger;
+
+public class Main {
+    
     public static void main(String[] args) {
         User user = new User("Arthur");
         Logger logger = Logger.getLogger("java.love");
@@ -37,4 +41,18 @@
         logger.info("Total commits: 750+");
         logger.info("Complete projects: 60+");
     }
+    
+    static class User {
+
+        private final String name;
+
+        public User(String name) {
+            this.name = name;
+        }
+
+        public String getName() {
+            return name;
+        }
+    }
+}
 ```

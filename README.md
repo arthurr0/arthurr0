@@ -23,7 +23,7 @@
          */
         logger.info("mineLogin");
         logger.severe("About: Addon for login users on Bungee, Velocity and Spigot minecraft servers.");
-        logger.warning("Technology: Java, JSON, SQL, Maven, Git, Cache, bCrypt, Hashing algorithms, Messaging system, Adventure platform");
+        logger.warning("Technology: Java, JSON, SQL, Maven, Git, Cache, bCrypt, Hashing algorithms, Messaging system.");
 
         logger.info("minePlots");
         logger.severe("About: Addon for create cuboids on Spigot minecraft servers.");

@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: shitzuu/metrics@master
+      - uses: arthurr0/metrics@master
         with:
           filename: profile.svg
           token: ${{ secrets.METRICS_TOKEN }}

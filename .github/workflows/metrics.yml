@@ -1,0 +1,23 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 */3 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: shitzuu/metrics@master
+        with:
+          filename: profile.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          plugin_languages: yes
+          plugin_languages_sections: recently-used
+          plugin_languages_recent_load: 400
+          plugin_languages_recent_days: 14
+          config_timezone: Europe/Warsaw

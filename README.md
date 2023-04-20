@@ -6,6 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/arthur00#0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="arthur00#0001" height="30" width="40" /></a>
+<a href="https://git.minecodes.pl/artur?tab=activity" target="blank"><img align="center" src="https://gitea.com/assets/img/logo.svg" alt="git.minecodes.pl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

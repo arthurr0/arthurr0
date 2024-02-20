@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arthur Kołecki</h1>
-<h3 align="center">A Junior Java Developer from Poland.</h3>
+<h3 align="center">A Full Stack Developer from Poland.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurr0&label=Profile%20views&color=0e75b6&style=flat" alt="arthurr0" /> </p>
 
